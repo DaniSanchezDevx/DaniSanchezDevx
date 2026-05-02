@@ -29,7 +29,7 @@ AI Automation Engineer focused on building scalable digital solutions.
 * 🔗 Interested in APIs, integrations and intelligent systems
   
 * 📈 Currently studying Data Science & Artificial Intelligence
-* 
+  
 * 🌍 Open to collaborations and innovative projects
 
 
